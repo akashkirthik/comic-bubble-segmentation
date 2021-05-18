@@ -1,5 +1,5 @@
-#Comic-bubble-segmentation
-##Backend
+<h1>Comic-bubble-segmentation<h1>
+<h2>Backend</h2>
 **Technologies used:** Python, Flask
 **Prerequisites:**
 **Step 1:** Install the latest version of python. Make sure to set the correct path while installation.
