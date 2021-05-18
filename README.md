@@ -4,7 +4,7 @@
 
 ### Prerequisites:
 * **Step 1**: Install the latest version of python. Make sure to set the correct path while installation.
-Navigate to the _comic-bubble-segmentation\flask_ folder.
+Navigate to the `comic-bubble-segmentation\flask` folder.
 
 
 * **Step 2**: Install all the required python modules using these commands.
