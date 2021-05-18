@@ -1,4 +1,4 @@
-**Backend**\n
+**Backend**
 **Technologies used:** Python, Flask
 **Prerequisites:**
 **Step 1:** Install the latest version of python. Make sure to set the correct path while installation.
